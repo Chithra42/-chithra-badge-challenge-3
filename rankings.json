@@ -1,0 +1,16 @@
+
+[
+   
+    [ 1,"Sugar",1,"kg","Condiments","Super small "],
+    [ 2,"Cooking Oil", 1, "kg", "Oil and Fat","Refined"],
+    [ 3,"Yougurt",1, "bottle","Dairy ", "Siggi's yogurt "],
+    [ 4, "Rice", "5","kg","Grains","Medium Grain"],
+    [ 5,"Red meat","2","kg","Meat and Fish","Firm"],
+    [6,"Onions",1,"kg", "Produce","Shallots"],
+    [7,"White Beans","500","g","Dried Produce","Boston bean"],
+    [8,"Cashew Nuts",1,"kg","Tinned Produce","Jumbo nuts"],
+    [9,"Eggs", 10,"No","Dairy and Eggs","Brown eggs"],
+    [10,"Pasta",1,"pkt","Bread and Bakery","Spaghetti"]
+
+   
+]

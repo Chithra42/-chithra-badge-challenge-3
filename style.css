@@ -1,0 +1,26 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.table{
+    border: 2px solid black;
+    background-color: blanchedalmond;
+    
+    padding: 3%;
+    margin-left: 28%;
+    margin-top: 10%;
+}
+.body{
+    border: 2px solid black;
+    
+    background-color:rgb(149, 139, 126);
+    font-size:x-large;
+}
+.body1{
+    
+     background-color: rgb(75, 74, 74); 
+   
+     font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+  
+}
